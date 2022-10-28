@@ -1,0 +1,26 @@
+.text1{
+    text-decoration:line-through;
+    font-weight:bold ;
+
+}
+.text2{
+    background-color: yellow;
+    font-weight: bold;
+}
+.a1{
+    color: red;
+    background-color: yellow;
+    text-decoration: none;
+    font-style: italic;
+}
+#li3
+{
+    color: brown;
+    letter-spacing: 3px;
+    
+}
+.text3
+{
+    background-color: yellow;
+    font-weight: bold;
+}
